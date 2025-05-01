@@ -21,7 +21,7 @@
 
 ## ダウンロード
 * [回路図 (20140722)](R8C_X1KEYBORD_Schematic20140722.pdf)
-* [R8C/M12A のファームウェア・ソースコード（HEWのプロジェクト一式）(20140728)](RELEASE/R8C_X1keybord20140728.zip)
+* [R8C/M12A のファームウェア・ソースコード（HEWのプロジェクト一式）(20140728)](https://github.com/KyoichiSato/R8C-X1-PS2-KEYBOARD/releases/download/R001/R8C_X1keybord20140728.zip)
 
 
 ## 製作例
