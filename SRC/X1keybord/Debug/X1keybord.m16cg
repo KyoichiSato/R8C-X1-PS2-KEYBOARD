@@ -1,0 +1,4 @@
+-R8C
+-nofloat
+-output="C:\Users\uts\SkyDrive\Documents\HEW\R8C_X1keybord\X1keybord\Debug\X1keybord.lib"
+-O3

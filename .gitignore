@@ -1,0 +1,5 @@
+# gitで追跡しないファイル
+
+.\SRC\X1keybord\Debug\*.*
+.\SRC\X1keybord\Release\*.*
+

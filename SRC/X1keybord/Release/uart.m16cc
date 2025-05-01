@@ -1,0 +1,16 @@
+-lang=c
+-D__UART0__
+-c
+-finfo
+-dir "C:\Users\uts\SkyDrive\Documents\HEW\R8C_X1keybord\X1keybord\Release"
+-O5
+-OR
+-O5OA
+-fCE
+-fNC
+-fSA
+-fUD
+-silent
+-fD32
+-fNA
+"C:\Users\uts\SkyDrive\Documents\HEW\R8C_X1keybord\X1keybord\uart.c"
