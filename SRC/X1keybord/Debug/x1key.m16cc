@@ -1,8 +1,0 @@
--lang=c
--D__UART0__
--c
--finfo
--dir "C:\Users\uts\SkyDrive\Documents\HEW\R8C_X1keybord\X1keybord\Debug"
--silent
--R8C
-"C:\Users\uts\SkyDrive\Documents\HEW\R8C_X1keybord\X1keybord\x1key.c"
